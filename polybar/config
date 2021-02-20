@@ -1,9 +1,9 @@
- _                
-(_) __  __  _ __  
-| | \ \/ / | '_ \	- Visit my repos at: https://github.com/ixp123 
-| |  >  <  | |_) |	- Email me at: aimhreit06@protonmail.com
-|_| /_/\_\ | .__/ 	- Polybar config
-           |_|
+ ;_                
+;(_) __  __  _ __  
+;| | \ \/ / | '_ \	- Visit my repos at: https://github.com/ixp123 
+;| |  >  <  | |_) |	- Email me at: aimhreit06@protonmail.com
+;|_| /_/\_\ | .__/ 	- Polybar config
+;           |_|
 
 [colors]
 ;background = ${xrdb:color0:#222}
